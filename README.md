@@ -2,7 +2,7 @@ EXP-4
 
 date:
 
-                            SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
+                        SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
 
 AIM: o simulate and synthesis SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Vivado 2023.1.
 
